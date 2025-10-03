@@ -75,5 +75,3 @@ Through this project, I gained hands-on experience in:
 - ✅ Presenting findings clearly for stakeholders
 
 ---
-
-## 📁 Repository Structure *(Suggested)*
